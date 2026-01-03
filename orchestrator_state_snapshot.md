@@ -1,4 +1,4 @@
-State Snapshot — 2026-01-03 12:00 UTC
+State Snapshot — 2026-01-03 23:15 UTC
 
 A. Current milestone: M7 | AC IDs: N/A (workflow/tooling)
 
