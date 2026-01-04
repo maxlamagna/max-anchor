@@ -1,3 +1,16 @@
+State Snapshot — 2026-01-04 11:12 UTC
+A. Current milestone: M7 | AC IDs: N/A (workflow/tooling)
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: None
+D. Open risks/known issues: None
+E. Next intended PR: Milestone doc and Acceptance criteria alignment
+F. Verification: ./scripts/check.sh PASS — 2026-01-04 11:12 UTC
+G. Docs sync status:
+   - Docs changed since last ChatGPT project docs upload: NO
+   - Changed docs files: None
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-04 11:10 UTC
+---
+
 State Snapshot — 2026-01-04 10:50 UTC
 A. Current milestone: M7 | AC IDs: N/A (workflow/tooling)
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -9,6 +22,7 @@ G. Docs sync status:
    - Docs changed since last ChatGPT project docs upload: YES
    - Changed docs files: docs/AI_BUILD_PLAYBOOK.md, docs/audits/workflow/README.md
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-03 23:20 UTC
+
 ---
 
 State Snapshot — 2026-01-04 02:30 UTC
@@ -50,19 +64,5 @@ G. Docs sync status:
    - Docs changed since last ChatGPT docs upload: NO
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-03 23:20 UTC
-
----
-
-State Snapshot — 2026-01-03 23:15 UTC
-A. Current milestone: M7 | AC IDs: N/A (workflow/tooling)
-B. Locked decisions: None changed this PR
-C. Active PRs/branches: workflow/orchestrator-anchor-codify (PR1)
-D. Open risks: None
-E. Next intended PR: PR2 — update shiny-smile-completion-report skill with anchor step
-F. Verification: ./scripts/check.sh PASS (docs lane, gitleaks clean) — 2026-01-03
-G. Docs sync status:
-   - Docs changed since last ChatGPT docs upload: YES
-   - Changed docs files: docs/AI_BUILD_PLAYBOOK.md, docs/plans/_TEMPLATE.md
-   - Last confirmed ChatGPT docs upload (UTC): Unknown
 
 ---
