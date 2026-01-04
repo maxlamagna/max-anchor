@@ -1,3 +1,16 @@
+State Snapshot — 2026-01-04 10:50 UTC
+A. Current milestone: M7 | AC IDs: N/A (workflow/tooling)
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: PR (workflow/m7-drift-guardrails-pr5)
+D. Open risks/known issues: None
+E. Next intended PR: Close M7 or first code-lane PR
+F. Verification: ./scripts/check.sh PASS — 2026-01-04 10:50 UTC
+G. Docs sync status:
+   - Docs changed since last ChatGPT project docs upload: YES
+   - Changed docs files: docs/AI_BUILD_PLAYBOOK.md, docs/audits/workflow/README.md
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-03 23:20 UTC
+---
+
 State Snapshot — 2026-01-04 02:30 UTC
 A. Current milestone: M7 | AC IDs: N/A (workflow/tooling)
 B. Locked decisions pointers: docs/AI_BUILD_PLAYBOOK.md > Working Agreement: Orchestrator State Anchor
@@ -9,6 +22,7 @@ G. Docs sync status:
    - Docs changed since last ChatGPT project docs upload: NO
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-03 23:20 UTC
+
 ---
 
 State Snapshot — 2026-01-04 01:40 UTC
