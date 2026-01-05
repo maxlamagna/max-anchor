@@ -1,3 +1,23 @@
+State Snapshot — 2026-01-05 14:25 UTC
+A. Current milestone: M8 | AC IDs: AC-54, AC-55
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: PR #114 (feat/m8-auth-selection-ux-polish)
+D. Open risks/known issues: None
+E. Next intended PR: Merge M8, then M9
+F. Verification: ./scripts/check.sh PASS — 2026-01-05 14:28:11 UTC
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: NO
+   - Changed docs files: None
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-04 17:26 UTC
+H. Active Topics: 1 open, 3 closed → .session/_active_topics.md
+
+Appendix:
+- M8 implements: AC-54 (tap overlap validation with rejection feedback), AC-55 (password visibility toggle)
+- PR #114: https://github.com/maxlamagna/shiny-smile/pull/114
+- 222 tests, coverage 55.2%
+
+---
+
 State Snapshot — 2026-01-04 17:29 UTC
 A. Current milestone: M7 | AC IDs: N/A (workflow/tooling)
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -57,24 +77,6 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: NO
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-04 13:30 UTC
-H. Active Topics: 1 open, 2 closed → .session/_active_topics.md
-
-Appendix:
-- Milestone structure update: Added M8-M11, promoted AC-52..55 from Backlog to MVP (11 milestones, 55 ACs total)
-
----
-
-State Snapshot — 2026-01-04 13:27 UTC
-A. Current milestone: M7 | AC IDs: N/A (docs lane — milestone realignment)
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: PR #112 (docs/m7-milestones-realignment)
-D. Open risks/known issues: None
-E. Next intended PR: M8 implementation (AC-54, AC-55)
-F. Verification: ./scripts/check.sh PASS — 2026-01-04 13:27 UTC
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: YES
-   - Changed docs files: docs/MILESTONES.md, docs/ACCEPTANCE_CRITERIA.md, docs/MVP_SCOPE.md, docs/USER_FLOWS.md
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-04 11:10 UTC
 H. Active Topics: 1 open, 2 closed → .session/_active_topics.md
 
 Appendix:
