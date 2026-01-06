@@ -1,3 +1,19 @@
+State Snapshot — 2026-01-06 20:29 UTC
+A. Current milestone: M9 | AC IDs: AC-21, AC-28, AC-52, AC-53
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: None (PR #118 merged)
+D. Open risks/known issues: None
+E. Next intended PR: M10 planning
+F. Verification: ./scripts/check.sh PASS — 2026-01-06T19:46:28Z
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: NO
+   - Changed docs files: None
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-06 20:28 UTC
+H. Active Topics: 0 open, 4 closed → .session/_active_topics.md
+
+
+
+
 State Snapshot — 2026-01-06 UTC
 A. Current milestone: M9 | AC IDs: AC-21, AC-28, AC-52, AC-53
 B. Locked decisions pointers: docs/DECISIONS.md (credit debit priority per output)
@@ -56,26 +72,5 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Changed docs files: docs/AI_BUILD_PLAYBOOK.md
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-04 17:26 UTC
 H. Active Topics: 1 open, 3 closed → .session/_active_topics.md
-
----
-
-State Snapshot — 2026-01-05 14:25 UTC
-A. Current milestone: M8 | AC IDs: AC-54, AC-55
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: PR #114 (feat/m8-auth-selection-ux-polish)
-D. Open risks/known issues: None
-E. Next intended PR: Merge M8, then M9
-F. Verification: ./scripts/check.sh PASS — 2026-01-05 14:28:11 UTC
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: NO
-   - Changed docs files: None
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-04 17:26 UTC
-H. Active Topics: 1 open, 3 closed → .session/_active_topics.md
-
-Appendix:
-- M8 implements: AC-54 (tap overlap validation with rejection feedback), AC-55 (password visibility toggle)
-- PR #114: https://github.com/maxlamagna/shiny-smile/pull/114
-- 222 tests, coverage 55.2%
-
 
 ---
