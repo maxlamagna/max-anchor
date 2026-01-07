@@ -1,3 +1,19 @@
+State Snapshot — 2026-01-07 21:30 UTC
+A. Current milestone: M10 (implementation complete) | AC IDs: AC-31, AC-32, AC-38
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: None (PR #124 merged)
+D. Open risks/known issues: None
+E. Next intended PR: PR#1: Decision docs update (Option B pilot-first; move M11 to Post-MVP)
+F. Verification: ./scripts/check.sh FULL PASS — 2026-01-07 13:08 UTC (165 tests pass, 55.0% coverage)
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: NO
+   - Changed docs files: None
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 17:09 UTC
+H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
+
+
+
+
 State Snapshot — 2026-01-07 17:17 UTC
 A. Current milestone: M10 (implementation complete) | AC IDs: AC-31, AC-32, AC-38
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -54,21 +70,6 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: NO
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 07:29 UTC
-H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
-
----
-
-State Snapshot — 2026-01-07 07:02 UTC
-A. Current milestone: M10 (planning / core) | AC IDs: AC-31, AC-32, AC-38
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: PR #119 (docs/m10-plan-revise)
-D. Open risks/known issues: None
-E. Next intended PR: M10 implementation (ratings at generation stage, per-output)
-F. Verification: (pending this commit)
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: YES
-   - Changed docs files: docs/plans/2026-01-06_m10_ratings-fail-reasons.md, docs/DATA_CONTRACTS.md
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-06 20:28 UTC
 H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
 
 ---
