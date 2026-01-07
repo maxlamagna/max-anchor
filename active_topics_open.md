@@ -10,4 +10,6 @@ Cross-session context tracker. Items here persist across chat sessions until res
 - **Subsequent case edit**: Currently a case only includes successful images and there is nothing further which can be done. Explore wheter it should include regeneration of failures, addition of new variants (new colours/materials), etc. - This is likely to become (one or more) extended ACs to be part of MVP (Milestone TBD)
 - **Teeth overlay approach**: The current upper/lower arch is not fit for purpose as only one can be used at a given time and a rectangle is not the right shape to represent an arch. Further selection tools to be explored (ideally a brush/highlighter)?
 - **BUG: Overlay ignored**: Enhanced images ignore the taps selected
-- **New Req: Taps location**: Taps should only be accepted on teeth  
+- **New Req: Taps location**: Taps should only be accepted on teeth
+- **Post-MVP: Share for support** (from M10 plan): Allow users to explicitly share a low-rated output with the dev team for investigation. Requires explicit consent flow, controlled sharing (not automatic), no server-side image storage without consent, privacy-compliant data handling.
+- **Post-MVP: Contact me flag** (from M10 plan): Optional checkbox on low ratings (e.g., score < 3) to indicate user wants follow-up. Requires consent/PII considerations, clear opt-in language, backend support for flagging and routing.  
