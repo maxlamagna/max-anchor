@@ -1,3 +1,18 @@
+State Snapshot — 2026-01-07 23:30 UTC
+A. Current milestone: M10 (implementation complete) | AC IDs: N/A (docs lane - decision recording)
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: docs/m11-decision-docs-update (pending)
+D. Open risks/known issues: None
+E. Next intended PR: PR#2: Output quality investigation (per approved plan sequence)
+F. Verification: ./scripts/check.sh PASS — 2026-01-07 23:34 UTC (docs lane)
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: YES
+   - Changed docs files: docs/MVP_SCOPE.md; docs/MILESTONES.md; docs/ACCEPTANCE_CRITERIA.md; docs/DECISIONS.md
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 23:18 UTC
+H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
+
+---
+
 State Snapshot — 2026-01-07 23:20 UTC
 A. Current milestone: M10 (implementation complete) | AC IDs: N/A (workflow/tooling)
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -11,8 +26,7 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 23:18 UTC
 H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
 
-
-
+---
 
 State Snapshot — 2026-01-07 23:02 UTC
 A. Current milestone: M10 (implementation complete) | AC IDs: N/A (workflow/tooling)
@@ -42,8 +56,7 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 17:09 UTC
 H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
 
-
-
+---
 
 State Snapshot — 2026-01-07 17:17 UTC
 A. Current milestone: M10 (implementation complete) | AC IDs: AC-31, AC-32, AC-38
@@ -56,21 +69,6 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: NO
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 17:09 UTC
-H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
-
----
-
-State Snapshot — 2026-01-07 13:19 UTC
-A. Current milestone: M10 (implementation complete) | AC IDs: AC-31, AC-32, AC-38
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: feat/m10-core-quality-feedback
-D. Open risks/known issues: None (coverage and test issues resolved)
-E. Next intended PR: Merge M10 after CI passes
-F. Verification: ./scripts/check.sh FULL PASS — 2026-01-07 13:08 UTC (165 tests pass, 55.0% coverage)
-G. Docs sync status:
-   - Docs changed since last ChatGPT docs upload: YES
-   - Changed docs files: docs/plans/2026-01-06_m10_ratings-fail-reasons.md (Status: Approved)
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 07:29 UTC
 H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
 
 ---
