@@ -11,8 +11,7 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 17:09 UTC
 H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
 
-
-
+---
 
 State Snapshot — 2026-01-07 13:19 UTC
 A. Current milestone: M10 (implementation complete) | AC IDs: AC-31, AC-32, AC-38
@@ -57,8 +56,7 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 07:29 UTC
 H. Active Topics: 8 open, 4 closed → .session/_active_topics.md
 
-
-
+---
 
 State Snapshot — 2026-01-07 07:02 UTC
 A. Current milestone: M10 (planning / core) | AC IDs: AC-31, AC-32, AC-38
