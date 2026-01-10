@@ -13,3 +13,5 @@ Cross-session context tracker. Items here persist across chat sessions until res
 - **New Req: Taps location**: Taps should only be accepted on teeth
 - **Post-MVP: Share for support** (from M10 plan): Allow users to explicitly share a low-rated output with the dev team for investigation. Requires explicit consent flow, controlled sharing (not automatic), no server-side image storage without consent, privacy-compliant data handling.
 - **Post-MVP: Contact me flag** (from M10 plan): Optional checkbox on low ratings (e.g., score < 3) to indicate user wants follow-up. Requires consent/PII considerations, clear opt-in language, backend support for flagging and routing.  
+- **BUG: Previews download**: Previews can't be downloaded from the case view, even if the message shows success
+- **BUG: Generation failed**: Generation failed first time. When retrying got message "already generated"
