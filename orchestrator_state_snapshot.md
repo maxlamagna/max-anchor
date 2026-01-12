@@ -1,3 +1,18 @@
+State Snapshot — 2026-01-12 09:37 UTC
+A. Current milestone: post-M10 (PR12) | AC IDs: AC-12 (diagnostics), AC-47 (shade differentiation)
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: PR12 (fix/pr12-gemini-overlay-default-orientation-eu-vertex)
+D. Open risks/known issues: None
+E. Next intended PR: N/A (pending PR12 merge)
+F. Verification: ./scripts/check.sh FULL PASS — 2026-01-12T09:37:32Z (290 functions tests, 55% Flutter coverage)
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: YES
+   - Changed docs files: docs/DECISIONS.md
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 23:41 UTC
+H. Active Topics: 10 open, 4 closed → .session/_active_topics.md
+
+---
+
 State Snapshot — 2026-01-11 19:26 UTC
 A. Current milestone: post-M10 (PR11) | AC IDs: AC-12, AC-48, AC-49, AC-50 (investigation: AC-47)
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -53,22 +68,6 @@ C. Active PRs/branches: None (PR #138 merged)
 D. Open risks/known issues: None
 E. Next intended PR: PR11: debug-capture-and-case-previews-plus-shade-work
 F. Verification: ./scripts/check.sh PASS — 2026-01-11 13:40 UTC
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: NO
-   - Changed docs files: None
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 23:41 UTC
-H. Active Topics: 10 open, 4 closed → .session/_active_topics.md
-
-
-
-
-State Snapshot — 2026-01-11 01:05 UTC
-A. Current milestone: M10 (implementation complete) | AC IDs: N/A (docs lane - decision recording)
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: None (PR #138 merged)
-D. Open risks/known issues: None
-E. Next intended PR: PR10 mask efficiency and shade diagnostics
-F. Verification: ./scripts/check.sh PASS — 2026-01-07 23:34 UTC (docs lane)
 G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: NO
    - Changed docs files: None
