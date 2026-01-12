@@ -15,3 +15,4 @@ Cross-session context tracker. Items here persist across chat sessions until res
 - **Post-MVP: Contact me flag** (from M10 plan): Optional checkbox on low ratings (e.g., score < 3) to indicate user wants follow-up. Requires consent/PII considerations, clear opt-in language, backend support for flagging and routing.  
 - **BUG: Previews download**: Previews can't be downloaded from the case view, even if the message shows success
 - **BUG: Generation failed**: Generation failed first time. When retrying got message "already generated"
+- **Gemini API endpoint location**: 2026-01-12 — TEMP: gemini_overlay uses global Generative Language API (no EU location control). Follow-up: restore EU-only Vertex routing when gemini-3-pro-image-preview (or equivalent quality) is available in EU Vertex regions with a supported request schema; re-enable fail-closed GEMINI_LOCATION.
