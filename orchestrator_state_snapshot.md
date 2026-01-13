@@ -1,3 +1,18 @@
+State Snapshot — 2026-01-13 15:46 UTC
+A. Current milestone: post-M10 (PR14) | AC IDs: AC-28 (export entitlement), AC-29 (watermark), AC-30 (timestamp), AC-56 (original export), AC-57 (watermark enrichment)
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: fix/pr14-export-original-and-watermark
+D. Open risks/known issues: None
+E. Next intended PR: Merge PR14
+F. Verification: ./scripts/check.sh FULL PASS — 2026-01-13T15:46:25Z
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: YES
+   - Changed docs files: docs/ACCEPTANCE_CRITERIA.md, docs/DECISIONS.md, docs/plans/2026-01-12_pr14_export-original-and-watermark.md
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-12 14:47 UTC
+H. Active Topics: 12 open, 6 closed → .session/_active_topics.md
+
+---
+
 State Snapshot — 2026-01-12 23:19 UTC
 A. Current milestone: post-M10 (PR12) | AC IDs: AC-12 (diagnostics), AC-47 (shade differentiation)
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -11,8 +26,7 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-12 14:47 UTC
 H. Active Topics: 11 open, 4 closed → .session/_active_topics.md
 
-
-
+---
 
 State Snapshot — 2026-01-12 14:49 UTC
 A. Current milestone: post-M10 (PR12) | AC IDs: AC-12 (diagnostics), AC-47 (shade differentiation)
@@ -51,22 +65,6 @@ B. Locked decisions pointers: N/A (no locked decisions relevant)
 C. Active PRs/branches: None (PR #140 merged)
 D. Open risks/known issues: None
 E. Next intended PR: PR12: shade fidelity
-F. Verification: ./scripts/check.sh PASS — 2026-01-11 15:36 UTC
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: NO
-   - Changed docs files: None
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 23:41 UTC
-H. Active Topics: 10 open, 4 closed → .session/_active_topics.md
-
-
-
-
-State Snapshot — 2026-01-11 15:36 UTC
-A. Current milestone: post-M10 (PR11) | AC IDs: AC-12, AC-48, AC-49, AC-50 (investigation: AC-47)
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: PR11 (fix/pr11-debug-capture-case-previews-shade) — ready for merge
-D. Open risks/known issues: **CRITICAL** — Imagen Edit API shade fidelity (SSIM ~0.9995); new observational diagnostics (computeOutputLuminance) deployed
-E. Next intended PR: Manual testing + deployment verification, then analyze shade experiment results
 F. Verification: ./scripts/check.sh PASS — 2026-01-11 15:36 UTC
 G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: NO
