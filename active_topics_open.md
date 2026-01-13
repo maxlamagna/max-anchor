@@ -15,3 +15,4 @@ Cross-session context tracker. Items here persist across chat sessions until res
 - **BUG: Generation failed**: Generation failed first time. When retrying got message "already generated"
 - **Gemini API endpoint location**: 2026-01-12 — TEMP: gemini_overlay uses global Generative Language API (no EU location control). Follow-up: restore EU-only Vertex routing when gemini-3-pro-image-preview (or equivalent quality) is available in EU Vertex regions with a supported request schema; re-enable fail-closed GEMINI_LOCATION.
 - **Android emulator**: When it works again, test file download on API28 or less (see PR13 chat)
+- **Labels for VITA codes**: Assign labels like Hue, Luminance etc. in the interface
