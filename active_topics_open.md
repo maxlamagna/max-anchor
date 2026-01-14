@@ -17,3 +17,5 @@ Cross-session context tracker. Items here persist across chat sessions until res
 - **Android emulator**: When it works again, test file download on API28 or less (see PR13 chat)
 - **Labels for VITA codes**: Assign labels like Hue, Luminance etc. in the interface
 - **Auth switch cache isolation**: When switching between Firebase Auth accounts on the same device, verify local case cache is properly isolated per clinicId. Cases from one clinic should not be visible when logged in as a different clinic.
+- **BUG: Landscape pictures**: When uploading a preexisting landscape smile picture while holding the phone in portrait, the output gets squashed
+- **BUG: when holding the phone in landscape, the login page shows an overflow at the bottom of 34 pixels
