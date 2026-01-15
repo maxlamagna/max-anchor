@@ -1,3 +1,18 @@
+State Snapshot — 2026-01-14 23:45 UTC
+A. Current milestone: PR15 | AC IDs: AC-40, AC-48, AC-49, AC-50, AC-51, AC-58, AC-59, AC-60, AC-61
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: fix/pr15-auth-cache-vita-labels
+D. Open risks/known issues: None
+E. Next intended PR: Merge PR15
+F. Verification: ./scripts/check.sh FULL PASS — 2026-01-14T23:50:09Z
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: YES
+   - Changed docs files: docs/ACCEPTANCE_CRITERIA.md, docs/plans/2026-01-13_pr15-auth-switch-cache-isolation-and-vita-labels.md, docs/plans/2026-01-13_pr15-auth-switch-cache-isolation-and-vita-labels__codex_review.md
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-13 20:05 UTC
+H. Active Topics: 12 open, 6 closed → .session/_active_topics.md
+
+---
+
 State Snapshot — 2026-01-13 21:30 UTC
 A. Current milestone: post-M10 (PR14) | AC IDs: AC-28 (export entitlement), AC-29 (watermark), AC-30 (timestamp), AC-56 (original export), AC-57 (watermark enrichment)
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -56,21 +71,3 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-12 14:47 UTC
 H. Active Topics: 11 open, 4 closed → .session/_active_topics.md
-
-
-
-
-State Snapshot — 2026-01-12 09:37 UTC
-A. Current milestone: post-M10 (PR12) | AC IDs: AC-12 (diagnostics), AC-47 (shade differentiation)
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: PR12 (fix/pr12-gemini-overlay-default-orientation-eu-vertex)
-D. Open risks/known issues: None
-E. Next intended PR: N/A (pending PR12 merge)
-F. Verification: ./scripts/check.sh FULL PASS — 2026-01-12T09:37:32Z (290 functions tests, 55% Flutter coverage)
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: YES
-   - Changed docs files: docs/DECISIONS.md
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-07 23:41 UTC
-H. Active Topics: 10 open, 4 closed → .session/_active_topics.md
-
----
