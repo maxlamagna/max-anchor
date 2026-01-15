@@ -1,3 +1,18 @@
+State Snapshot — 2026-01-15 14:55 UTC
+A. Current milestone: PR16 | AC IDs: AC-62, AC-63
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: feature/pr16-selection-tool-taps-on-teeth
+D. Open risks/known issues: None
+E. Next intended PR: Merge PR16
+F. Verification: (pending)
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: YES
+   - Changed docs files: docs/ACCEPTANCE_CRITERIA.md, docs/DECISIONS.md, docs/USER_FLOWS.md, docs/plans/2026-01-15_pr16-selection-tool-taps-on-teeth.md, docs/plans/2026-01-15_pr16-selection-tool-taps-on-teeth__codex_review.md
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-15 00:31 UTC
+H. Active Topics: 15 open, 6 closed → .session/_active_topics.md
+
+---
+
 State Snapshot — 2026-01-15 00:32 UTC
 A. Current milestone: PR15 | AC IDs: AC-40, AC-48, AC-49, AC-50, AC-51, AC-58, AC-59, AC-60, AC-61
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -57,20 +72,5 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Changed docs files: docs/ACCEPTANCE_CRITERIA.md, docs/DECISIONS.md, docs/plans/2026-01-12_pr14_export-original-and-watermark.md
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-12 14:47 UTC
 H. Active Topics: 12 open, 6 closed → .session/_active_topics.md
-
----
-
-State Snapshot — 2026-01-12 23:19 UTC
-A. Current milestone: post-M10 (PR12) | AC IDs: AC-12 (diagnostics), AC-47 (shade differentiation)
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: None (PR #142 merged)
-D. Open risks/known issues: None
-E. Next intended PR: PR14-export-original-and-watermark
-F. Verification: ./scripts/check.sh FULL PASS — 2026-01-12T09:37:32Z (290 functions tests, 55% Flutter coverage)
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: NO
-   - Changed docs files: None
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-12 14:47 UTC
-H. Active Topics: 11 open, 4 closed → .session/_active_topics.md
 
 ---
