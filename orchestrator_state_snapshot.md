@@ -1,3 +1,19 @@
+State Snapshot — 2026-01-15 21:54 UTC
+A. Current milestone: PR16 | AC IDs: AC-62, AC-63
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: None (PR #145 merged)
+D. Open risks/known issues: None
+E. Next intended PR: PR17 Remove intraoral picture capture
+F. Verification: (pending)
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: NO
+   - Changed docs files: None
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-15 21:53 UTC
+H. Active Topics: 15 open, 6 closed → .session/_active_topics.md
+
+
+
+
 State Snapshot — 2026-01-15 14:55 UTC
 A. Current milestone: PR16 | AC IDs: AC-62, AC-63
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -56,21 +72,3 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-13 20:05 UTC
 H. Active Topics: 12 open, 6 closed → .session/_active_topics.md
-
-
-
-
-State Snapshot — 2026-01-13 15:46 UTC
-A. Current milestone: post-M10 (PR14) | AC IDs: AC-28 (export entitlement), AC-29 (watermark), AC-30 (timestamp), AC-56 (original export), AC-57 (watermark enrichment)
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: fix/pr14-export-original-and-watermark
-D. Open risks/known issues: None
-E. Next intended PR: Merge PR14
-F. Verification: ./scripts/check.sh FULL PASS — 2026-01-13T15:46:25Z
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: YES
-   - Changed docs files: docs/ACCEPTANCE_CRITERIA.md, docs/DECISIONS.md, docs/plans/2026-01-12_pr14_export-original-and-watermark.md
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-12 14:47 UTC
-H. Active Topics: 12 open, 6 closed → .session/_active_topics.md
-
----
