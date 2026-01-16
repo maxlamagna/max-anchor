@@ -1,3 +1,18 @@
+State Snapshot — 2026-01-16 00:31 UTC
+A. Current milestone: PR17 | AC IDs: AC-37 (edit), AC-47 (edit), AC-56 (edit)
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: feat/pr17-remove-intraoral-ui
+D. Open risks/known issues: None
+E. Next intended PR: Merge PR17
+F. Verification: (pending)
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: YES
+   - Changed docs files: docs/PRD.md, docs/MVP_SCOPE.md, docs/DATA_CONTRACTS.md, docs/ACCEPTANCE_CRITERIA.md, docs/DECISIONS.md, docs/USER_FLOWS.md, docs/runbooks/generation_runtime_config.md
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-15 21:53 UTC
+H. Active Topics: 15 open, 6 closed → .session/_active_topics.md
+
+---
+
 State Snapshot — 2026-01-15 21:54 UTC
 A. Current milestone: PR16 | AC IDs: AC-62, AC-63
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -59,16 +74,3 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
 H. Active Topics: 12 open, 6 closed → .session/_active_topics.md
 
 ---
-
-State Snapshot — 2026-01-13 21:30 UTC
-A. Current milestone: post-M10 (PR14) | AC IDs: AC-28 (export entitlement), AC-29 (watermark), AC-30 (timestamp), AC-56 (original export), AC-57 (watermark enrichment)
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: None (PR #143 merged)
-D. Open risks/known issues: None
-E. Next intended PR: PR15: Auth switch cache isolation + VITA labels
-F. Verification: ./scripts/check.sh FULL PASS — 2026-01-13T15:46:25Z
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: NO
-   - Changed docs files: None
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-13 20:05 UTC
-H. Active Topics: 12 open, 6 closed → .session/_active_topics.md
