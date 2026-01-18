@@ -17,3 +17,7 @@ Cross-session context tracker. Items here persist across chat sessions until res
 - **BUG: Landscape pictures**: When uploading a preexisting landscape smile picture while holding the phone in portrait, the output gets squashed
 - **BUG**: when holding the phone in landscape, the login page shows an overflow at the bottom of 4.4 pixels
 - **Gemini API**: investigate Vertex AI or new one from Max
+- **Arch/Full mouth prompts**: Explore removing the mask and just ask all teeth or upper/lower arch - aim is to improve consistency of results.
+- **Paid credit packages generation**: Besides free and pilot.
+- **BUG: Mouth ML fallback scenario**: use landscape picture - rectangle placed incorrectly (could be the same issue of landscape above).
+- **Review IAM + org policy alignment for Functions**: reconcile Domain Restricted Sharing (allowedPolicyMemberDomains) with public invoker (allUsers) usage; decide standard (public vs restricted), document in docs/DECISIONS.md, and audit all functions’ invoker bindings to remove drift (generateImages vs quoteGeneration).
