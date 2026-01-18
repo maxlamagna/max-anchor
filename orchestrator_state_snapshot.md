@@ -1,3 +1,19 @@
+State Snapshot — 2026-01-18 00:42 UTC
+A. Current milestone: PR18 | AC IDs: AC-53, AC-66, AC-20, AC-21 (follow-up 6c)
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: None (PR #147 merged)
+D. Open risks/known issues: None
+E. Next intended PR: Landscape-portr-login-overflow
+F. Verification: ./scripts/check.sh PASS — 2026-01-17 15:XX UTC
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: NO
+   - Changed docs files: None
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-26 01:39 UTC
+H. Active Topics: 17 open, 10 closed → .session/_active_topics.md
+
+
+
+
 State Snapshot — 2026-01-17 15:30 UTC
 A. Current milestone: PR18 | AC IDs: AC-53, AC-66, AC-20, AC-21 (follow-up 6c)
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -58,16 +74,3 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
 H. Active Topics: 15 open, 6 closed → .session/_active_topics.md
 
 ---
-
-State Snapshot — 2026-01-15 21:54 UTC
-A. Current milestone: PR16 | AC IDs: AC-62, AC-63
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: None (PR #145 merged)
-D. Open risks/known issues: None
-E. Next intended PR: PR17 Remove intraoral picture capture
-F. Verification: (pending)
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: NO
-   - Changed docs files: None
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-15 21:53 UTC
-H. Active Topics: 15 open, 6 closed → .session/_active_topics.md
