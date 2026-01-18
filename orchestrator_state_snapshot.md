@@ -8,7 +8,7 @@ F. Verification: ./scripts/check.sh PASS — 2026-01-17 15:XX UTC
 G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: NO
    - Changed docs files: None
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-26 01:39 UTC
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-18 00:39 UTC
 H. Active Topics: 17 open, 10 closed → .session/_active_topics.md
 
 
@@ -24,7 +24,7 @@ F. Verification: ./scripts/check.sh PASS — 2026-01-17 15:XX UTC
 G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: YES
    - Changed docs files: docs/plans/2026-01-17_pr18_followup6b_quote-legacy-fallback.md
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-26 01:38 UTC
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-16 01:38 UTC
 H. Active Topics: 12 open, 9 closed → .session/_active_topics.md
 
 ---
@@ -39,7 +39,7 @@ F. Verification: (pending)
 G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: YES
    - Changed docs files: docs/ACCEPTANCE_CRITERIA.md, docs/USER_FLOWS.md, docs/plans/2026-01-16_pr18-rating-submit-and-case-edit.md
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-26 01:38 UTC
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-16 01:39 UTC
 H. Active Topics: 12 open, 9 closed → .session/_active_topics.md
 
 ---
@@ -54,7 +54,7 @@ F. Verification: (pending)
 G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Docs changed since last ChatGPT docs upload: NO
    - Changed docs files: None
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-26 01:38 UTC
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-16 01:38 UTC
 H. Active Topics: 12 open, 9 closed → .session/_active_topics.md
 
 
