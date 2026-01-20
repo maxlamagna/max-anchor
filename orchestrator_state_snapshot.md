@@ -1,3 +1,18 @@
+State Snapshot — 2026-01-19 17:55 UTC
+A. Current milestone: PR21 | AC IDs: AC-11, AC-12, AC-13 (pilot exception), AC-47, AC-38
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: feat/pr21-gemini-api-eu-routing-or-alternative
+D. Open risks/known issues: Global API usage during pilot (documented in RISKS.md)
+E. Next intended PR: PR21 merge (determinism controls + pilot deviation gate)
+F. Verification: ./scripts/check.sh PASS — 2026-01-19 17:53 UTC
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: YES
+   - Changed docs files: docs/ACCEPTANCE_CRITERIA.md, docs/DECISIONS.md, docs/RISKS.md, docs/runbooks/generation_runtime_config.md
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-18 21:53 UTC
+H. Active Topics: 15 open, 13 closed → .session/_active_topics.md
+
+---
+
 State Snapshot — 2026-01-18 21:54 UTC
 A. Current milestone: PR20 | AC IDs: AC-67, AC-68, AC-69
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -57,21 +72,3 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-18 00:39 UTC
 H. Active Topics: 17 open, 10 closed → .session/_active_topics.md
-
-
-
-
-State Snapshot — 2026-01-17 15:30 UTC
-A. Current milestone: PR18 | AC IDs: AC-53, AC-66, AC-20, AC-21 (follow-up 6c)
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: feat/pr18-rating-submit-and-case-edit (pending)
-D. Open risks/known issues: None
-E. Next intended PR: Merge PR18
-F. Verification: ./scripts/check.sh PASS — 2026-01-17 15:XX UTC
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: YES
-   - Changed docs files: docs/plans/2026-01-17_pr18_followup6b_quote-legacy-fallback.md
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-16 01:38 UTC
-H. Active Topics: 12 open, 9 closed → .session/_active_topics.md
-
----
