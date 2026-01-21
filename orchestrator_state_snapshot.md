@@ -1,3 +1,19 @@
+State Snapshot — 2026-01-21 22:54 UTC
+A. Current milestone: PR22 | AC IDs: AC-36, AC-42, AC-43, AC-44, AC-54, AC-38
+B. Locked decisions pointers: N/A (no locked decisions relevant)
+C. Active PRs/branches: None (PR #22 merged)
+D. Open risks/known issues: None
+E. Next intended PR: PR23 interactive segmentation spike (MediaPipe MagicTouch)
+F. Verification: ./scripts/check.sh PASS — 2026-01-21 21:04 UTC
+G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
+   - Docs changed since last ChatGPT docs upload: NO
+   - Changed docs files: None
+   - Last confirmed ChatGPT docs upload (UTC): 2026-01-20 00:30 UTC
+H. Active Topics: 14 open, 14 closed → .session/_active_topics.md
+
+
+
+
 State Snapshot — 2026-01-21 21:04 UTC
 A. Current milestone: PR22 | AC IDs: AC-36, AC-42, AC-43, AC-44, AC-54, AC-38
 B. Locked decisions pointers: N/A (no locked decisions relevant)
@@ -56,21 +72,3 @@ G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
    - Changed docs files: None
    - Last confirmed ChatGPT docs upload (UTC): 2026-01-18 21:53 UTC
 H. Active Topics: 15 open, 13 closed → .session/_active_topics.md
-
-
-
-
-State Snapshot — 2026-01-18 21:07 UTC
-A. Current milestone: PR20 | AC IDs: AC-67, AC-68, AC-69
-B. Locked decisions pointers: N/A (no locked decisions relevant)
-C. Active PRs/branches: feat/pr20-ledger-balance-and-history
-D. Open risks/known issues: None
-E. Next intended PR: Merge PR20
-F. Verification: ./scripts/check.sh PASS — 2026-01-18 21:09 UTC (pre-existing settings test failure unrelated to PR20)
-G. Docs sync status (repo docs vs ChatGPT-uploaded docs):
-   - Docs changed since last ChatGPT docs upload: YES
-   - Changed docs files: docs/ACCEPTANCE_CRITERIA.md, docs/DATA_CONTRACTS.md, docs/USER_FLOWS.md
-   - Last confirmed ChatGPT docs upload (UTC): 2026-01-18 00:39 UTC
-H. Active Topics: 15 open, 13 closed → .session/_active_topics.md
-
----
